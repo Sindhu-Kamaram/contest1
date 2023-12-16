@@ -1,0 +1,29 @@
+.inputDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.inputDiv>label{
+    
+    font-size: 16px;
+    font-weight: bold;
+  
+}
+
+.inputDiv>input{
+    width:350px;
+    height: 25px;
+    border-radius: 5px;
+   margin-bottom: -10px;
+  
+}
+
+.inputDiv>p{
+    font-size: 12px;
+    margin-bottom: 0px;
+    
+}
+
